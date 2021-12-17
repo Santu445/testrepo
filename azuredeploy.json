@@ -6,7 +6,7 @@
     "storageAccountType": {
       "type": "string",
       "allowedValues": [
-        "Premimum_LRS"
+        "starndrad_LRS"
       ],
       "defaultValue": "Standard_LRS",
       "metadata": {
